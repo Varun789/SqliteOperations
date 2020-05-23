@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SquliteOperation</string>
+    <string name="UserName">User Name</string>
+    <string name="Password">Password</string>
+    <string name="View">View</string>
+    <string name="addUser">Add User</string>
+</resources>
